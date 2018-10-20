@@ -1,7 +1,7 @@
 #  Tic Tac Toe Game 
 ## Idea Of The Game 
 
-the ** tic tac toe ** is famouse game and the rules are knowne here i used some Artificial intelligence algorithms that allowd player (user) play with computer ...
+the * tic tac toe * is famouse game and the rules are knowne here i used some Artificial intelligence algorithms that allowd player (user) play with computer ...
 
 
 ## Instructions:
